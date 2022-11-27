@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BMICalculator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/BMICalculator_jar/BMICalculator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
